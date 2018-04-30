@@ -1,0 +1,10 @@
+.child.panel-block:hover,
+.child.panel-block:hover i,
+.child.panel-block:active,
+.child.panel-block:active i,
+.child.panel-block:focus,
+.child.panel-block:focus i {
+	background-color: rgb(0,157,239) !important;
+	color: white !important;
+	cursor: pointer;
+}

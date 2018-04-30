@@ -1,0 +1,5935 @@
+{
+  "name": "EndyLab",
+  "type": "Lab",
+  "children": [
+    {
+      "name": "Freezer 1",
+      "type": "Freezer",
+      "children": [
+        {
+          "name": "Shelf 1",
+          "type": "Shelf",
+          "children": [
+            {
+              "name": "Rack 1",
+              "type": "Rack",
+              "children": [
+                {
+                  "column": 1,
+                  "row": 1,
+                  "name": "Box 1,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 2,
+                  "name": "Box 1,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 3,
+                  "name": "Box 1,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 4,
+                  "name": "Box 1,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 1,
+                  "name": "Box 2,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 2,
+                  "name": "Box 2,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 3,
+                  "name": "Box 2,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 4,
+                  "name": "Box 2,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 1,
+                  "name": "Box 3,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 2,
+                  "name": "Box 3,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 3,
+                  "name": "Box 3,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 4,
+                  "name": "Box 3,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 1,
+                  "name": "Box 4,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 2,
+                  "name": "Box 4,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 3,
+                  "name": "Box 4,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 4,
+                  "name": "Box 4,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 1,
+                  "name": "Box 5,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 2,
+                  "name": "Box 5,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 3,
+                  "name": "Box 5,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 4,
+                  "name": "Box 5,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rack 2",
+              "type": "Rack",
+              "children": [
+                {
+                  "column": 1,
+                  "row": 1,
+                  "name": "Box 1,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 2,
+                  "name": "Box 1,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 3,
+                  "name": "Box 1,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 4,
+                  "name": "Box 1,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 1,
+                  "name": "Box 2,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 2,
+                  "name": "Box 2,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 3,
+                  "name": "Box 2,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 4,
+                  "name": "Box 2,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 1,
+                  "name": "Box 3,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 2,
+                  "name": "Box 3,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 3,
+                  "name": "Box 3,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 4,
+                  "name": "Box 3,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 1,
+                  "name": "Box 4,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 2,
+                  "name": "Box 4,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 3,
+                  "name": "Box 4,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 4,
+                  "name": "Box 4,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 1,
+                  "name": "Box 5,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 2,
+                  "name": "Box 5,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 3,
+                  "name": "Box 5,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 4,
+                  "name": "Box 5,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rack 3",
+              "type": "Rack",
+              "children": []
+            },
+            {
+              "name": "Rack 4",
+              "type": "Rack",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Shelf 2",
+          "type": "Shelf",
+          "children": [
+            {
+              "name": "Rack 1",
+              "type": "Rack",
+              "children": [
+                {
+                  "column": 1,
+                  "row": 1,
+                  "name": "Box 1,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 2,
+                  "name": "Box 1,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 3,
+                  "name": "Box 1,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 4,
+                  "name": "Box 1,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 1,
+                  "name": "Box 2,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 2,
+                  "name": "Box 2,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 3,
+                  "name": "Box 2,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 4,
+                  "name": "Box 2,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 1,
+                  "name": "Box 3,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 2,
+                  "name": "Box 3,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 3,
+                  "name": "Box 3,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 4,
+                  "name": "Box 3,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 1,
+                  "name": "Box 4,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 2,
+                  "name": "Box 4,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 3,
+                  "name": "Box 4,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 4,
+                  "name": "Box 4,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 1,
+                  "name": "Box 5,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 2,
+                  "name": "Box 5,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 3,
+                  "name": "Box 5,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 4,
+                  "name": "Box 5,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rack 2",
+              "type": "Rack",
+              "children": [
+                {
+                  "column": 1,
+                  "row": 1,
+                  "name": "Box 1,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 2,
+                  "name": "Box 1,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 3,
+                  "name": "Box 1,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 4,
+                  "name": "Box 1,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 1,
+                  "name": "Box 2,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 2,
+                  "name": "Box 2,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 3,
+                  "name": "Box 2,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 4,
+                  "name": "Box 2,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 1,
+                  "name": "Box 3,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 2,
+                  "name": "Box 3,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 3,
+                  "name": "Box 3,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 4,
+                  "name": "Box 3,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 1,
+                  "name": "Box 4,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 2,
+                  "name": "Box 4,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 3,
+                  "name": "Box 4,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 4,
+                  "name": "Box 4,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 1,
+                  "name": "Box 5,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 2,
+                  "name": "Box 5,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 3,
+                  "name": "Box 5,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 4,
+                  "name": "Box 5,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rack 3",
+              "type": "Rack",
+              "children": []
+            },
+            {
+              "name": "Rack 4",
+              "type": "Rack",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Shelf 3",
+          "type": "Shelf",
+          "children": []
+        },
+        {
+          "name": "Shelf 4",
+          "type": "Shelf",
+          "children": []
+        },
+        {
+          "name": "Shelf 5",
+          "type": "Shelf",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Freezer 2",
+      "type": "Freezer",
+      "children": [
+        {
+          "name": "Shelf 1",
+          "type": "Shelf",
+          "children": [
+            {
+              "name": "Rack 1",
+              "type": "Rack",
+              "children": [
+                {
+                  "column": 1,
+                  "row": 1,
+                  "name": "Box 1,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 2,
+                  "name": "Box 1,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 3,
+                  "name": "Box 1,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 4,
+                  "name": "Box 1,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 1,
+                  "name": "Box 2,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 2,
+                  "name": "Box 2,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 3,
+                  "name": "Box 2,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 4,
+                  "name": "Box 2,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 1,
+                  "name": "Box 3,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 2,
+                  "name": "Box 3,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 3,
+                  "name": "Box 3,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 4,
+                  "name": "Box 3,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 1,
+                  "name": "Box 4,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 2,
+                  "name": "Box 4,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 3,
+                  "name": "Box 4,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 4,
+                  "name": "Box 4,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 1,
+                  "name": "Box 5,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 2,
+                  "name": "Box 5,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 3,
+                  "name": "Box 5,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 4,
+                  "name": "Box 5,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rack 2",
+              "type": "Rack",
+              "children": [
+                {
+                  "column": 1,
+                  "row": 1,
+                  "name": "Box 1,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 2,
+                  "name": "Box 1,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 3,
+                  "name": "Box 1,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 4,
+                  "name": "Box 1,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 1,
+                  "name": "Box 2,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 2,
+                  "name": "Box 2,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 3,
+                  "name": "Box 2,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 4,
+                  "name": "Box 2,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 1,
+                  "name": "Box 3,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 2,
+                  "name": "Box 3,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 3,
+                  "name": "Box 3,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 4,
+                  "name": "Box 3,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 1,
+                  "name": "Box 4,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 2,
+                  "name": "Box 4,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 3,
+                  "name": "Box 4,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 4,
+                  "name": "Box 4,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 1,
+                  "name": "Box 5,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 2,
+                  "name": "Box 5,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 3,
+                  "name": "Box 5,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 4,
+                  "name": "Box 5,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rack 3",
+              "type": "Rack",
+              "children": []
+            },
+            {
+              "name": "Rack 4",
+              "type": "Rack",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Shelf 2",
+          "type": "Shelf",
+          "children": [
+            {
+              "name": "Rack 1",
+              "type": "Rack",
+              "children": [
+                {
+                  "column": 1,
+                  "row": 1,
+                  "name": "Box 1,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 2,
+                  "name": "Box 1,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 3,
+                  "name": "Box 1,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 4,
+                  "name": "Box 1,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 1,
+                  "name": "Box 2,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 2,
+                  "name": "Box 2,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 3,
+                  "name": "Box 2,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 4,
+                  "name": "Box 2,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 1,
+                  "name": "Box 3,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 2,
+                  "name": "Box 3,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 3,
+                  "name": "Box 3,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 4,
+                  "name": "Box 3,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 1,
+                  "name": "Box 4,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 2,
+                  "name": "Box 4,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 3,
+                  "name": "Box 4,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 4,
+                  "name": "Box 4,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 1,
+                  "name": "Box 5,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 2,
+                  "name": "Box 5,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 3,
+                  "name": "Box 5,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 4,
+                  "name": "Box 5,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rack 2",
+              "type": "Rack",
+              "children": [
+                {
+                  "column": 1,
+                  "row": 1,
+                  "name": "Box 1,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 2,
+                  "name": "Box 1,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 3,
+                  "name": "Box 1,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 1,
+                  "row": 4,
+                  "name": "Box 1,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 1,
+                  "name": "Box 2,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 2,
+                  "name": "Box 2,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 3,
+                  "name": "Box 2,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 2,
+                  "row": 4,
+                  "name": "Box 2,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 1,
+                  "name": "Box 3,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 2,
+                  "name": "Box 3,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 3,
+                  "name": "Box 3,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 3,
+                  "row": 4,
+                  "name": "Box 3,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 1,
+                  "name": "Box 4,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 2,
+                  "name": "Box 4,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 3,
+                  "name": "Box 4,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 4,
+                  "row": 4,
+                  "name": "Box 4,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 1,
+                  "name": "Box 5,1",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 2,
+                  "name": "Box 5,2",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 3,
+                  "name": "Box 5,3",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "column": 5,
+                  "row": 4,
+                  "name": "Box 5,4",
+                  "type": "Box",
+                  "children": [
+                    {
+                      "column": 1,
+                      "row": 1,
+                      "name": "Well 1,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 1,
+                      "row": 2,
+                      "name": "Well 1,2",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 1,
+                      "name": "Well 2,1",
+                      "type": "Well",
+                      "children": []
+                    },
+                    {
+                      "column": 2,
+                      "row": 2,
+                      "name": "Well 2,2",
+                      "type": "Well",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rack 3",
+              "type": "Rack",
+              "children": []
+            },
+            {
+              "name": "Rack 4",
+              "type": "Rack",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Shelf 3",
+          "type": "Shelf",
+          "children": []
+        },
+        {
+          "name": "Shelf 4",
+          "type": "Shelf",
+          "children": []
+        },
+        {
+          "name": "Shelf 5",
+          "type": "Shelf",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Freezer 3",
+      "type": "Freezer",
+      "children": []
+    },
+    {
+      "name": "Freezer 4",
+      "type": "Freezer",
+      "children": []
+    },
+    {
+      "name": "Freezer 5",
+      "type": "Freezer",
+      "children": []
+    }
+  ]
+}

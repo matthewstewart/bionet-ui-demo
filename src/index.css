@@ -1,0 +1,70 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.page-container {
+	position: relative;
+	display: block;
+	width: 100%;
+	min-height: calc(100vh - 94px);
+	padding: 64px 12px 12px 12px;
+}
+
+.image-container {
+	position: fixed;
+	width: 50%;
+	top: 9999px;
+	left: -9999px;
+	height: calc(100vh - 52px - 70px);
+	background-color: #bbb;
+}
+
+.rotate-90 {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);	
+}
+
+
+
+
+
+/* Bulma Breakpoints */
+
+/* Tablet */
+@media (min-width: 768px) {
+
+}
+
+/* Desktop */
+@media (min-width: 1024px) { 
+
+	.page-container {
+		width: 50%;
+	}
+
+	.image-container {
+		position: fixed;
+		width: 50%;
+		top: 53px;
+		left: 50%;
+		height: calc(100vh - 64px - 70px);
+		background-color: white;
+		padding: 12px;
+	}
+
+}
+
+/* Widescreen */
+@media (min-width: 1216px) { 
+
+}
+
+/* Full HD */
+@media (min-width: 1408px) { 
+
+}

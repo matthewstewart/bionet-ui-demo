@@ -1,0 +1,13 @@
+footer {
+	/*min-height: 70px;*/
+	background-color: rgb(27,27,27);
+	color: rgb(230,230,230);
+	padding: 22px 12px;
+	/*padding: 0;*/
+	font-size: .8em;
+	margin-top: 12px;
+}
+
+footer .columns .column {
+	text-align: center;
+}
