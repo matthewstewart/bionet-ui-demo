@@ -52,7 +52,7 @@ body, html {
 		width: 50%;
 		top: 53px;
 		left: 50%;
-		height: calc(100vh - 64px - 70px);
+		height: calc(100vh - 65px - 70px);
 		background-color: white;
 		padding: 12px;
 	}
