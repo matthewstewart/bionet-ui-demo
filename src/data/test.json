@@ -5,10 +5,12 @@
     {
       "name": "Freezer 1",
       "type": "Freezer",
+      "imageUrl": "https://juul.io/minus_80_photos/freezer.jpg",
       "children": [
         {
           "name": "Shelf 1",
           "type": "Shelf",
+          "imageUrl": "https://juul.io/minus_80_photos/shelf1.jpg",
           "children": [
             {
               "name": "Rack 1",
@@ -1477,6 +1479,7 @@
         {
           "name": "Shelf 2",
           "type": "Shelf",
+          "imageUrl": "https://juul.io/minus_80_photos/shelf2.jpg",
           "children": [
             {
               "name": "Rack 1",
@@ -2966,6 +2969,7 @@
         {
           "name": "Shelf 1",
           "type": "Shelf",
+          "imageUrl": "https://juul.io/minus_80_photos/shelf1.jpg",
           "children": [
             {
               "name": "Rack 1",
@@ -4434,6 +4438,7 @@
         {
           "name": "Shelf 2",
           "type": "Shelf",
+          "imageUrl": "https://juul.io/minus_80_photos/shelf2.jpg",
           "children": [
             {
               "name": "Rack 1",

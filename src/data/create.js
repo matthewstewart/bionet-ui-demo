@@ -69,6 +69,7 @@ for(let i = 1; i < 6; i++){
 		shelf = {
 			name: `Shelf ${i}`,
 			type: "Shelf",
+			imageUrl: `https://juul.io/minus_80_photos/shelf${i}.jpg`,
 			children: rackArray
 		};
 	} else {
@@ -86,11 +87,20 @@ let freezerArray = [];
 for(let i = 1; i < 6; i++){
 	let freezer;
 	if(i < 3){
-		freezer = {
-			name: `Freezer ${i}`,
-			type: "Freezer",
-			children: shelfArray
-		};
+		if(i === 1){
+			freezer = {
+				name: `Freezer ${i}`,
+				type: "Freezer",
+				imageUrl: "https://juul.io/minus_80_photos/freezer.jpg",
+				children: shelfArray
+			};			
+		} else {
+			freezer = {
+				name: `Freezer ${i}`,
+				type: "Freezer",
+				children: shelfArray
+			};
+		}
 	}	else {
 		freezer = {
 			name: `Freezer ${i}`,
