@@ -40,12 +40,18 @@ function ImageHeading(props) {
 function Image(props) {
   let hasImage = props.activeItem.imageUrl && props.activeItem.imageUrl.length > 0;
   return (
-    <div id="lab-image">
-      {(hasImage) ? (
-        <img src={props.activeItem.imageUrl} alt="lab"/>
-      ) : (
+    <div 
+      id="lab-image"
+      style={{
+        'backgroundImage': `url(${props.activeItem.imageUrl})`,
+        'backgroundSize': 'contain',
+        'backgroundRepeat': 'no-repeat',
+        'backgroundPosition': 'center'
+      }}
+    >
+      {(!hasImage) ? (
         <p>No Image Available</p>
-      )}
+      ) : null }
     </div>
   );
 }

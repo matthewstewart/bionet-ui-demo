@@ -39,6 +39,9 @@
 
 #lab-image {
 	padding: 12px;
+	height: calc(100vh - 52px - 70px - 24px);
+	width: 100%;
+	margin: 0 auto;
 }
 
 #fake-lab-image {
