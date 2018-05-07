@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import bionetLogo from '../assets/bionet_logo.png';
 import labIcon from '../assets/lab_icon.png';
 import './Navbar.css';
@@ -16,14 +17,14 @@ class Navbar extends Component {
             />
           </a>
 
-          <a className="navbar-item" href="https://biobricks.org/bionet/">
+          <Link className="navbar-item" to="/">
             <img 
               id="lab-icon"
               src={ labIcon } 
               alt="Lab Icon"
             />
             EndyLab
-          </a>
+          </Link>
 
           <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false">
             <span aria-hidden="true"></span>
