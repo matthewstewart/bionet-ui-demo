@@ -52,6 +52,14 @@ input[name="search"] {
 	font-size: .8em;
 }
 
+.sort.panel.columns {
+	margin: 0 0 0 0;
+}
+
+.sort.panel.columns .panel-block{
+	border-top: 1px solid #dbdbdb;
+}
+
 /* Bulma Breakpoints */
 
 /* Tablet */
