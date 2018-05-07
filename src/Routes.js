@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Switch, Route } from 'react-router-dom';
 import LandingPage from './pages/LandingPage';
+import SearchPage from './pages/SearchPage';
 
 class Routes extends Component {
   render() {
@@ -12,10 +13,19 @@ class Routes extends Component {
         />
       );
     };
+    const searchPage = (props) => {
+      return (
+        <SearchPage 
+          {...props}
+          {...this.props}
+        />
+      );
+    };
     return ( 
       <main>
         <Switch>
           <Route exact path='/' component={landingPage}/>
+          <Route exact path='/search' component={searchPage}/>
         </Switch>
       </main>
     );

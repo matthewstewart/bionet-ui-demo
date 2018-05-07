@@ -8,7 +8,7 @@ body, html {
 	position: relative;
 	display: block;
 	width: 100%;
-	min-height: calc(100vh - 94px);
+	min-height: calc(100vh);
 	padding: 64px 12px 12px 12px;
 }
 
@@ -29,9 +29,28 @@ body, html {
   transform: rotate(90deg);	
 }
 
+.child.panel-block.spaced {
+	justify-content: space-between;
+}
 
+.to-right {
+	position: relative;
+	display: block;
+	float: right;
+}
 
+input[name="search"] {
+	margin-bottom: .5rem;
+}
 
+.field:not(:last-child){
+	margin-bottom: .2rem;
+}
+
+.hint-label,
+.hint  {
+	font-size: .8em;
+}
 
 /* Bulma Breakpoints */
 
@@ -52,7 +71,7 @@ body, html {
 		width: 50%;
 		top: 53px;
 		left: 50%;
-		height: calc(100vh - 65px - 70px);
+		height: calc(100vh - 65px);
 		background-color: white;
 		padding: 12px;
 	}
@@ -60,7 +79,7 @@ body, html {
 }
 
 /* Widescreen */
-@media (min-width: 1216px) { 
+@min-width: 1216px) { 
 
 }
 

@@ -50,7 +50,7 @@ function Image(props) {
       }}
     >
       {(!hasImage) ? (
-        <p>No Image Available</p>
+        <p style={{'margin': '12px'}}>No Image Available</p>
       ) : null }
     </div>
   );
