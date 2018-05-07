@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import shortid from 'shortid';
 
 class SearchPage extends Component {
@@ -49,15 +50,16 @@ class SearchPage extends Component {
   render() {
   	let searchResults = this.state.resultsArray.map((result, index) => {
   		return (
-  			<div 
+  			<Link 
   				key={shortid.generate()}
+  				to="/inventory"
   				className="child panel-block spaced"
   			>
   					<span>{ result }</span>
   					{(index % 3 === 0 || index % 4 === 0) ? (
 							<i className="mdi mdi-18px mdi-flask"/>
   					) : null }
-  			</div>
+  			</Link>
   		);
   	});
     return ( 
