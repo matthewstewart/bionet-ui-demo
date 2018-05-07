@@ -8,10 +8,12 @@ class SearchPage extends Component {
 		this.state = {
 			query: "",
 			status: "",
-			resultsArray: []
+			resultsArray: [],
+			advanceSearch: false
 		};
 		this.changeQuery = this.changeQuery.bind(this);
 		this.submitQuery = this.submitQuery.bind(this);
+		this.toggleAdvancedSearch = this.toggleAdvancedSearch.bind(this);
 	}
 
 	changeQuery(e) {
@@ -35,6 +37,12 @@ class SearchPage extends Component {
 			query: "",
 			status,
 			resultsArray
+		});
+	}
+
+	toggleAdvancedSearch() {
+		this.setState({
+			advanceSearch: !this.state.advanceSearch
 		});
 	}
 
@@ -85,64 +93,73 @@ class SearchPage extends Component {
 	    						) : null}
 	    					</div>
 	    					<div className="field">
-	    						<div className="control">
-	    							<label className="radio">
-	    								<input 
-	    									type="radio"
-	    									name="scope"
-	    									value="local"
-	    								/> Local Search
-	    							</label>
-	    							<label className="radio">
-	    								<input 
-	    									type="radio"
-	    									name="scope"
-	    									value="global"
-	    								/> Global Search
-	    							</label>
-	    						</div>
+	    						<a onClick={ this.toggleAdvancedSearch }>
+	    							<i className="mdi mdi-18px mdi-settings" /> Search
+	    						</a>
 	    					</div>
-	    					<div className="field">
-	    						<div className="control">
-	    							<label className="radio">
-	    								<input 
-	    									type="radio"
-	    									name="type"
-	    									value="human"
-	    								/> Human Language
-	    							</label>
-	    							<label className="radio">
-	    								<input 
-	    									type="radio"
-	    									name="type"
-	    									value="blast"
-	    								/> Nucletide Sequence
-	    							</label>
-	    							<label className="radio">
-	    								<input 
-	    									type="radio"
-	    									name="type"
-	    									value="blast_aa"
-	    								/> Amino Acid Sequence
-	    							</label>
-	    						</div>
-	    					</div>
-	    					<div className="field">
-	    						<div className="control">
-	    							<label className="checkbox">
-	    								<input type="checkbox" /> Show only currently available materials
-	    							</label>
-	    						</div>
-	    					</div>
-	    					<div className="hint">
-	    						<div className="hint-label">Hint:</div>
-	    						<div className="hint-text">
-	    							<p>You can search using either human language or a nucleotide sequence.</p>
-	    							<p className="other">
-	    								For advanced search tips have a look at <a href="/help/search">search syntax help</a>.
-	    							</p>
-	    						</div>
-	    					</div>
+	    					{ (this.state.advanceSearch) ? (
+			    				<div>	
+			    					<div className="field">
+			    						<div className="control">
+			    							<label className="radio">
+			    								<input 
+			    									type="radio"
+			    									name="scope"
+			    									value="local"
+			    								/> Local Search
+			    							</label>
+			    							<label className="radio">
+			    								<input 
+			    									type="radio"
+			    									name="scope"
+			    									value="global"
+			    								/> Global Search
+			    							</label>
+			    						</div>
+			    					</div>
+			    					<div className="field">
+			    						<div className="control">
+			    							<label className="radio">
+			    								<input 
+			    									type="radio"
+			    									name="type"
+			    									value="human"
+			    								/> Human Language
+			    							</label>
+			    							<label className="radio">
+			    								<input 
+			    									type="radio"
+			    									name="type"
+			    									value="blast"
+			    								/> Nucletide Sequence
+			    							</label>
+			    							<label className="radio">
+			    								<input 
+			    									type="radio"
+			    									name="type"
+			    									value="blast_aa"
+			    								/> Amino Acid Sequence
+			    							</label>
+			    						</div>
+			    					</div>
+			    					<div className="field">
+			    						<div className="control">
+			    							<label className="checkbox">
+			    								<input type="checkbox" /> Show only currently available materials
+			    							</label>
+			    						</div>
+			    					</div>
+			    					<div className="hint">
+			    						<div className="hint-label">Hint:</div>
+			    						<div className="hint-text">
+			    							<p>You can search using either human language or a nucleotide sequence.</p>
+			    							<p className="other">
+			    								For advanced search tips have a look at <a href="/help/search">search syntax help</a>.
+			    							</p>
+			    						</div>
+			    					</div>
+		    					</div>
+		    				) : null}	
 	    				</form>
 	    			</div>
 	    		</div>
