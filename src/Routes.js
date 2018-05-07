@@ -25,7 +25,7 @@ class Routes extends Component {
       <main>
         <Switch>
           <Route exact path='/' component={searchPage}/>
-          <Route exact path='/inventory' component={InventoryPage}/>
+          <Route exact path='/inventory' component={inventoryPage}/>
         </Switch>
       </main>
     );
