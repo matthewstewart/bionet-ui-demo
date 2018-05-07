@@ -166,13 +166,26 @@ class SearchPage extends Component {
 	    			</div>
 	    		</div>
 
-	    		<div className="columns">
-	    			<div className="column">
-	    				<div className="panel">
-	    					{searchResults}
-	    				</div>
-	    			</div>
-	    		</div>
+	    		{ (this.state.resultsArray.length > 0) ? (
+		    		<div className="columns">
+		    			<div className="column">
+		    				<div className="sort panel columns">
+		    					<div className="panel-block column">
+		    						Name
+		    					</div>
+		    					<div className="panel-block column">
+		    						Availability
+		    					</div>
+		    					<div className="panel-block column">
+		    						Legal Status
+		    					</div>
+		    				</div>
+		    				<div className="panel">
+		    					{searchResults}
+		    				</div>
+		    			</div>
+		    		</div>
+	    		) : null }
 
 	    	</div>
     	</div>
