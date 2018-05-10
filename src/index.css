@@ -60,6 +60,7 @@ input[name="search"] {
 	border-top: 1px solid #dbdbdb;
 }
 
+<<<<<<< HEAD
 .panel-block.column {
 	border-bottom: none;
 }
@@ -68,6 +69,8 @@ input[name="search"] {
 	border-right: none;
 }
 
+=======
+>>>>>>> d04294950ddb739536c258fc18dbe672b8adf2c5
 /* Bulma Breakpoints */
 
 /* Tablet */
