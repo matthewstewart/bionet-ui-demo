@@ -60,6 +60,14 @@ input[name="search"] {
 	border-top: 1px solid #dbdbdb;
 }
 
+.panel-block.column {
+	border-bottom: none;
+}
+
+.panel-block.column:not(:last-child){
+	border-right: none;
+}
+
 /* Bulma Breakpoints */
 
 /* Tablet */
@@ -87,7 +95,7 @@ input[name="search"] {
 }
 
 /* Widescreen */
-@min-width: 1216px) { 
+@media (min-width: 1216px) { 
 
 }
 
