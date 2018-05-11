@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import shortid from 'shortid';
+import '../components/Search.css';
 
 class SearchPage extends Component {
 
@@ -10,7 +11,10 @@ class SearchPage extends Component {
 			query: "",
 			status: "",
 			resultsArray: [],
-			advanceSearch: false
+			advanceSearch: false,
+			sort: {
+
+			}
 		};
 		this.changeQuery = this.changeQuery.bind(this);
 		this.submitQuery = this.submitQuery.bind(this);
@@ -48,17 +52,26 @@ class SearchPage extends Component {
 	}
 
   render() {
+  	let placeholderDesc = "Lorem ipsum dolor sit posuere...";
   	let searchResults = this.state.resultsArray.map((result, index) => {
   		return (
   			<Link 
   				key={shortid.generate()}
   				to="/inventory"
-  				className="child panel-block spaced"
+  				className="child panel-block columns is-mobile"
   			>
-  					<span>{ result }</span>
+  					<div className="column is-3">{ result }</div>
+  					<div className="column is-3">{ placeholderDesc }</div>
   					{(index % 3 === 0 || index % 4 === 0) ? (
-							<i className="mdi mdi-18px mdi-flask"/>
-  					) : null }
+							<div className="column is-3">
+								<i className="mdi mdi-18px mdi-flask"/>
+							</div>	
+  					) : (
+  						<div className="column is-3">
+								<i />
+							</div>
+  					) }
+  					<div className="column is-3"></div>
   			</Link>
   		);
   	});
@@ -169,15 +182,18 @@ class SearchPage extends Component {
 	    		{ (this.state.resultsArray.length > 0) ? (
 		    		<div className="columns">
 		    			<div className="column">
-		    				<div className="sort panel columns">
-		    					<div className="panel-block column">
+		    				<div className="sort panel columns is-mobile">
+		    					<div className="panel-block column is-3">
 		    						Name
 		    					</div>
-		    					<div className="panel-block column">
-		    						Availability
+		    					<div className="panel-block column is-3">
+		    						Desc.
 		    					</div>
-		    					<div className="panel-block column">
-		    						Legal Status
+		    					<div className="panel-block column is-3">
+		    						Avail.
+		    					</div>
+		    					<div className="panel-block column is-3">
+		    						License
 		    					</div>
 		    				</div>
 		    				<div className="panel">

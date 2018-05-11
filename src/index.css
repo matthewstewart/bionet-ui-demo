@@ -29,45 +29,6 @@ body, html {
   transform: rotate(90deg);	
 }
 
-.child.panel-block.spaced {
-	justify-content: space-between;
-}
-
-.to-right {
-	position: relative;
-	display: block;
-	float: right;
-}
-
-input[name="search"] {
-	margin-bottom: .5rem;
-}
-
-.field:not(:last-child){
-	margin-bottom: .2rem;
-}
-
-.hint-label,
-.hint  {
-	font-size: .8em;
-}
-
-.sort.panel.columns {
-	margin: 0 0 0 0;
-}
-
-.sort.panel.columns .panel-block{
-	border-top: 1px solid #dbdbdb;
-}
-
-.panel-block.column {
-	border-bottom: none;
-}
-
-.panel-block.column:not(:last-child){
-	border-right: none;
-}
-
 
 /* Bulma Breakpoints */
 
