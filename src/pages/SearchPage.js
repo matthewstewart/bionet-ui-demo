@@ -117,6 +117,7 @@ class SearchPage extends Component {
   			resultsArray = resultsArray.sort(dynamicSortDesc('name'));
   		}
   	}
+
   	let searchResults = resultsArray.map((result, index) => {
   		return (
   			<Link 
@@ -126,19 +127,28 @@ class SearchPage extends Component {
   			>
   					<div className="column is-3">{ result }</div>
   					<div className="column is-5">{ placeholderDesc }</div>
-  					{(index % 3 === 0 || index % 4 === 0) ? (
+  					{(this.state.sortField === "available") ? (
 							<div className="column is-2">
-								<i className="mdi mdi-18px mdi-checkbox-marked has-text-success"/>
+								{(this.state.sortOrder === "asc") ? (
+									<i className="mdi mdi-18px mdi-checkbox-marked has-text-success"/>
+								) : (
+									<i />
+								)}
 							</div>	
   					) : (
   						<div className="column is-2">
-								<i />
+								{(this.state.sortField !== "available" && index % 3 === 0) ? (
+									<i className="mdi mdi-18px mdi-checkbox-marked has-text-success"/>
+								) : (
+									<i />
+								)}
 							</div>
-  					) }
+  					)}
   					<div className="column is-2"></div>
   			</Link>
   		);
   	});
+
     return ( 
     	<div className="page-container">
 	    	<div className="page-content">
