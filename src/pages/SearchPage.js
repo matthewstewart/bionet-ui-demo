@@ -12,13 +12,15 @@ class SearchPage extends Component {
 			status: "",
 			resultsArray: [],
 			advanceSearch: false,
-			sort: {
-
-			}
+			sortField: "",
+			sortOrder: ""
 		};
 		this.changeQuery = this.changeQuery.bind(this);
 		this.submitQuery = this.submitQuery.bind(this);
 		this.toggleAdvancedSearch = this.toggleAdvancedSearch.bind(this);
+		this.toggleNameSort = this.toggleNameSort.bind(this);
+		this.toggleAvailableSort = this.toggleAvailableSort.bind(this);
+		this.toggleLicenseSort = this.toggleLicenseSort.bind(this);
 	}
 
 	changeQuery(e) {
@@ -51,9 +53,71 @@ class SearchPage extends Component {
 		});
 	}
 
+	toggleNameSort() {
+		let currentSortOrder = this.state.sortOrder;
+		let sortOrder = "";
+		if(currentSortOrder.length > 0){
+			if(currentSortOrder === "desc"){
+				sortOrder = "";
+			} else if(currentSortOrder === "asc") {
+				sortOrder = "desc";
+			}
+		} else {
+			sortOrder = "asc";
+		}
+		this.setState({
+			sortField: "name",
+			sortOrder			
+		});
+	}
+
+	toggleAvailableSort() {
+		let currentSortOrder = this.state.sortOrder;
+		let sortOrder = "";
+		if(currentSortOrder.length > 0){
+			if(currentSortOrder === "desc"){
+				sortOrder = "";
+			} else if(currentSortOrder === "asc") {
+				sortOrder = "desc";
+			}
+		} else {
+			sortOrder = "asc";
+		}
+		this.setState({
+			sortField: "available",
+			sortOrder			
+		});
+	}
+
+	toggleLicenseSort() {
+		let currentSortOrder = this.state.sortOrder;
+		let sortOrder = "";
+		if(currentSortOrder.length > 0){
+			if(currentSortOrder === "desc"){
+				sortOrder = "";
+			} else if(currentSortOrder === "asc") {
+				sortOrder = "desc";
+			}
+		} else {
+			sortOrder = "asc";
+		}
+		this.setState({
+			sortField: "license",
+			sortOrder			
+		});
+	}
+
   render() {
   	let placeholderDesc = "Lorem ipsum dolor sit posuere...";
-  	let searchResults = this.state.resultsArray.map((result, index) => {
+  	let resultsArray = this.state.resultsArray;
+  	if(this.state.sortField === "name"){
+  		if(this.state.sortOrder === "asc"){
+  			resultsArray = resultsArray.sort(dynamicSortAsc('name'));
+  		} else if(this.state.sortOrder === "desc"){
+  			resultsArray = resultsArray.sort(dynamicSortDesc('name'));
+  		}
+  	}
+  	let searchResults = resultsArray.map((result, index) => {
   		return (
   			<Link 
   				key={shortid.generate()}
@@ -183,18 +247,66 @@ class SearchPage extends Component {
 		    		<div className="columns">
 		    			<div className="column">
 		    				<div className="sort panel columns is-mobile">
-		    					<div className="panel-block column is-3">
-		    						<div>Name</div>
-		    					</div>
+		    					<a 
+		    						className="panel-block column is-3"
+		    						onClick={ this.toggleNameSort }
+		    					>
+		    						<div className="columns is-mobile">
+		    							<div className="column is-7">Name</div>
+		    							<div className="column sort is-5">
+		    								{ (this.state.sortField === "name" && this.state.sortOrder.length > 0) ? (
+		    									<div>
+		    										{ (this.state.sortOrder === "asc") ? (
+		    											<i className="mdi mdi-16px mdi-arrow-up-drop-circle-outline" />
+		    										) : (
+		    											<i className="mdi mdi-16px mdi-arrow-down-drop-circle-outline" />
+		    										)}
+		    									</div>
+		    								) : null }
+		    							</div>
+		    						</div>
+		    					</a>
 		    					<div className="panel-block column is-5">
 		    						Desc.
 		    					</div>
-		    					<div className="panel-block column is-2">
-		    						Avail.
-		    					</div>
-		    					<div className="panel-block column is-2">
-		    						Lic.
-		    					</div>
+									<a 
+		    						className="panel-block column is-2"
+		    						onClick={ this.toggleAvailableSort }
+		    					>
+		    						<div className="columns is-mobile">
+		    							<div className="column is-7">Avail.</div>
+		    							<div className="column sort is-5">
+		    								{ (this.state.sortField === "available" && this.state.sortOrder.length > 0) ? (
+		    									<div>
+		    										{ (this.state.sortOrder === "asc") ? (
+		    											<i className="mdi mdi-16px mdi-arrow-up-drop-circle-outline" />
+		    										) : (
+		    											<i className="mdi mdi-16px mdi-arrow-down-drop-circle-outline" />
+		    										)}
+		    									</div>
+		    								) : null }
+		    							</div>
+		    						</div>
+		    					</a>
+		    					<a 
+		    						className="panel-block column is-2"
+		    						onClick={ this.toggleLicenseSort }
+		    					>
+		    						<div className="columns is-mobile">
+		    							<div className="column is-7">Lisc.</div>
+		    							<div className="column sort is-5">
+		    								{ (this.state.sortField === "license" && this.state.sortOrder.length > 0) ? (
+		    									<div>
+		    										{ (this.state.sortOrder === "asc") ? (
+		    											<i className="mdi mdi-16px mdi-arrow-up-drop-circle-outline" />
+		    										) : (
+		    											<i className="mdi mdi-16px mdi-arrow-down-drop-circle-outline" />
+		    										)}
+		    									</div>
+		    								) : null }
+		    							</div>
+		    						</div>
+		    					</a>
 		    				</div>
 		    				<div className="panel">
 		    					{searchResults}
@@ -210,3 +322,29 @@ class SearchPage extends Component {
 }
 
 export default SearchPage;
+
+
+
+function dynamicSortAsc(property) {
+    var sortOrder = 1;
+    if(property[0] === "-") {
+        sortOrder = -1;
+        property = property.substr(1);
+    }
+    return function (a,b) {
+        var result = (a[property] < b[property]) ? -1 : (a[property] > b[property]) ? 1 : 0;
+        return result * sortOrder;
+    }
+}
+
+function dynamicSortDesc(property) {
+    var sortOrder = 1;
+    if(property[0] === "-") {
+        sortOrder = -1;
+        property = property.substr(1);
+    }
+    return function (a,b) {
+        var result = (a[property] > b[property]) ? -1 : (a[property] < b[property]) ? 1 : 0;
+        return result * sortOrder;
+    }
+}

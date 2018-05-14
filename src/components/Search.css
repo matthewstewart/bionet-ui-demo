@@ -45,3 +45,7 @@ a.child.panel-block.columns .column {
 a.child.panel-block.columns .column {
 	text-align: center;
 }
+
+.column.sort {
+	text-align: right;
+}
