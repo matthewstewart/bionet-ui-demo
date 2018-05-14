@@ -147,13 +147,13 @@ class SearchPage extends Component {
   					{(this.state.sortField === "license") ? (
 							<div className="column is-2">
 								{(this.state.sortOrder === "asc") ? (
-									<div>A</div>
+									<div>OpenMTA</div>
 								) : (
 									<div>
 										{(this.state.sortOrder === "desc") ? (
-											<div>B</div>
+											<div>UBMTA</div>
 										) : (
-											<div>C</div>
+											<div>Limbo</div>
 										)}
 									</div>
 								)}
@@ -161,13 +161,13 @@ class SearchPage extends Component {
   					) : (
   						<div className="column is-2">
 								{(this.state.sortField !== "available" && index % 3 === 0) ? (
-									<div>A</div>
+									<div>OpenMTA</div>
 								) : (
 									<div>
 										{(index % 3 !== 0 && index % 4 === 0) ? (
-											<div>B</div>
+											<div>UBMTA</div>
 										) : (
-											<div>C</div>
+											<div>Limbo</div>
 										)}
 									</div>
 								)}
@@ -331,18 +331,21 @@ class SearchPage extends Component {
 		    						onClick={ this.toggleLicenseSort }
 		    					>
 		    						<div className="columns is-mobile">
-		    							<div className="column is-7">Lisc.</div>
-		    							<div className="column sort is-5">
+		    							{ (this.state.sortField !== "license") ? (
+		    								<div className="column is-12">Lisc.</div>
+		    							) : null }
+		    							
+		    							<div className="column sort is-12">
 		    								{ (this.state.sortField === "license") ? (
 		    									<div>
 		    										{ (this.state.sortOrder === "asc") ? (
-		    											<div>A</div>
+		    											<div>OpenMTA</div>
 		    										) : (
 		    											<div>
 		    												{ (this.state.sortOrder === "desc") ? (
-		    													<div>B</div>
+		    													<div>UBMTA</div>
 		    												) : (
-		    													<div>C</div>
+		    													<div>Limbo</div>
 		    												)}
 		    											</div>
 		    										)}
