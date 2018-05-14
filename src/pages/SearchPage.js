@@ -144,7 +144,35 @@ class SearchPage extends Component {
 								)}
 							</div>
   					)}
-  					<div className="column is-2"></div>
+  					{(this.state.sortField === "license") ? (
+							<div className="column is-2">
+								{(this.state.sortOrder === "asc") ? (
+									<div>A</div>
+								) : (
+									<div>
+										{(this.state.sortOrder === "desc") ? (
+											<div>B</div>
+										) : (
+											<div>C</div>
+										)}
+									</div>
+								)}
+							</div>	
+  					) : (
+  						<div className="column is-2">
+								{(this.state.sortField !== "available" && index % 3 === 0) ? (
+									<div>A</div>
+								) : (
+									<div>
+										{(index % 3 !== 0 && index % 4 === 0) ? (
+											<div>B</div>
+										) : (
+											<div>C</div>
+										)}
+									</div>
+								)}
+							</div>
+  					)}
   			</Link>
   		);
   	});
