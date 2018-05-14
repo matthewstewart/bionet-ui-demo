@@ -61,17 +61,17 @@ class SearchPage extends Component {
   				className="child panel-block columns is-mobile"
   			>
   					<div className="column is-3">{ result }</div>
-  					<div className="column is-3">{ placeholderDesc }</div>
+  					<div className="column is-5">{ placeholderDesc }</div>
   					{(index % 3 === 0 || index % 4 === 0) ? (
-							<div className="column is-3">
-								<i className="mdi mdi-18px mdi-flask"/>
+							<div className="column is-2">
+								<i className="mdi mdi-18px mdi-checkbox-marked has-text-success"/>
 							</div>	
   					) : (
-  						<div className="column is-3">
+  						<div className="column is-2">
 								<i />
 							</div>
   					) }
-  					<div className="column is-3"></div>
+  					<div className="column is-2"></div>
   			</Link>
   		);
   	});
@@ -184,16 +184,16 @@ class SearchPage extends Component {
 		    			<div className="column">
 		    				<div className="sort panel columns is-mobile">
 		    					<div className="panel-block column is-3">
-		    						Name
+		    						<div>Name</div>
 		    					</div>
-		    					<div className="panel-block column is-3">
+		    					<div className="panel-block column is-5">
 		    						Desc.
 		    					</div>
-		    					<div className="panel-block column is-3">
+		    					<div className="panel-block column is-2">
 		    						Avail.
 		    					</div>
-		    					<div className="panel-block column is-3">
-		    						License
+		    					<div className="panel-block column is-2">
+		    						Lic.
 		    					</div>
 		    				</div>
 		    				<div className="panel">
