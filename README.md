@@ -1,4 +1,5 @@
 # Bionet Demo
+See demo in development at [https://bionetdemo.herokuapp.com/](https://bionetdemo.herokuapp.com/).
 
 ## Install
 ```
