@@ -333,12 +333,18 @@ class SearchPage extends Component {
 		    						<div className="columns is-mobile">
 		    							<div className="column is-7">Lisc.</div>
 		    							<div className="column sort is-5">
-		    								{ (this.state.sortField === "license" && this.state.sortOrder.length > 0) ? (
+		    								{ (this.state.sortField === "license") ? (
 		    									<div>
 		    										{ (this.state.sortOrder === "asc") ? (
-		    											<i className="mdi mdi-16px mdi-arrow-up-drop-circle-outline" />
+		    											<div>A</div>
 		    										) : (
-		    											<i className="mdi mdi-16px mdi-arrow-down-drop-circle-outline" />
+		    											<div>
+		    												{ (this.state.sortOrder === "desc") ? (
+		    													<div>B</div>
+		    												) : (
+		    													<div>C</div>
+		    												)}
+		    											</div>
 		    										)}
 		    									</div>
 		    								) : null }
