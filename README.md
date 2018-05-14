@@ -4,10 +4,10 @@
 ```
 git clone https://github.com/matthewstewart/bionet-ui-demo.git
 cd bionet-ui-demo
-yarn install
+npm install
 ```
 
 ## Run
 ```
-yarn start
+npm start
 ```
